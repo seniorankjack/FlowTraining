@@ -9,7 +9,7 @@
 | :--: | :--: |
 | 姓名 | Jack Chen |
 | 職位 | Programmer |
-| Github帳號 | [go] [github] |
+| Github帳號 | [seniorankjack] [github] |
 | Email | norank_gsc@url.com.tw |
 
 
@@ -24,6 +24,8 @@
 
 
 [github]: https://github.com/seniorankjack/  "seniorankjack"
+
+
 
 
 score : 10 /100
