@@ -1,4 +1,4 @@
-自我介绍
+自我介紹
 ========
 
 
@@ -23,9 +23,9 @@
 *	T-SQL
 
 
-[github]: https://github.com/seniorankjack/  "seniorankjack"
-
-
 
 
 score : 10 /100
+
+
+[github]: https://github.com/seniorankjack/  "seniorankjack"
